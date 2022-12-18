@@ -1,0 +1,34 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+.heading-text{
+text-align: center;
+padding-top: 90px;
+margin-bottom: 0px;
+}
+
+.login-text{
+text-align: center;
+padding-top: 10px;
+margin-bottom: 0px;
+}
+.form-group{
+padding: 10px 0px;
+}
+
+input[type=email],
+input[type=password] {
+width: 350px;
+}
+
+.custom-text-color{
+color: #FFF;
+}
+
+.custom-text-color:hover{
+color: #02b6bf;
+transition: 0.25s;
+transition-timing-function: ease-in-out;
+}
